@@ -11,12 +11,30 @@
     },
     {
       "id": 2,
-      "brand": "Tata",
+      "brand": "Suzuki",
 			"type":"AMT",
       "year": 2017,
       "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
+      "Description": "Suzuki Swift with in good condition",
       "Price": 800000
+    },
+    {
+      "id": 3,
+      "brand": "Toyota",
+			"type":"AMT",
+      "year": 2021,
+      "kms": 10000,
+      "Description": "Toyota Ennova with in good condition",
+      "Price": 1100000
+    },
+    {
+      "id": 4,
+      "brand": "Ford",
+			"type":"AMT",
+      "year": 2020,
+      "kms": 5000,
+      "Description": "Ford Ecosport good as new",
+      "Price": 950000
     }
   ]
 }

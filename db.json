@@ -40,7 +40,7 @@
   "wishlisted_cars": [],
   "users": [
     {
-      "name": "Lokesh Vyavhare",
+      "id":1,
       "email":"lokesh@gmail.com",
       "password":"lokesh",
       "username":"lokesh",

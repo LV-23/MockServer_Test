@@ -40,11 +40,11 @@
   "wishlisted_cars": [],
   "users": [
     {
-      "id":1,
-      "email":"lokesh@gmail.com",
-      "password":"lokesh",
-      "username":"lokesh",
-      "tasks":[]
+      "id": 1,
+      "email": "lokesh@gmail.com",
+      "password": "lokesh",
+      "username": "lokesh",
+      "tasks": []
     }
   ],
   "dogs": [
@@ -56,11 +56,18 @@
       "gender": "Male"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "name": "Lab",
+      "age": "78",
+      "gender": "Male",
+      "place": "Mars",
+      "id": 3
     }
   ]
 }
